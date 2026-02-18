@@ -1,1 +1,1 @@
-# 08-ml-docker-build-workflow
+# 07-ml-training-workflow
